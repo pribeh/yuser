@@ -30,3 +30,8 @@
     font-size:14px !important;
   }
 }
+@media only screen and (max-width: 360px)  {
+  header ul li a {
+    font-size:12px !important;
+  }
+}
