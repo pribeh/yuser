@@ -1,1 +1,29 @@
-#authcachedebug fieldset{padding-top:30px;}#authcachedbg{z-index:99999;text-align:left;font-size:11px;left:0px;position:absolute;background:#f7f7f7;color:#000;padding:5px 20px 5px 5px;}#authcache_status_indicator{position:absolute;right:3px;top:8px;height:10px;width:10px;opacity:0.5;}/**/
+@media only screen and (max-width: 930px)  {
+  .middle h1, .middle2 h1, .middle3 h1, .middle4 h1 {
+    margin-left:15px !important;
+    margin-right:15px !important;
+  }
+  .middle .row, .middle2 .row, .middle3 .row, .middle4 .row {
+    margin-left:15px !important;
+    margin-right:15px !important;
+  }
+}
+@media only screen and (max-width: 830px)  {
+  .middle .row, .middle4 .row {
+      flex-direction: column !important;
+  }
+  .middle .row p {
+    margin-left:0 !important;
+    margin-right:0 !important;
+  }
+}
+@media only screen and (max-width: 630px)  {
+  .middle2 .row, .middle3 .row {
+    flex-direction: column !important;
+  }
+  .middle3 .row img {
+    width:auto;
+    max-width:400px;
+    margin-bottom:-20px;
+  }
+}
