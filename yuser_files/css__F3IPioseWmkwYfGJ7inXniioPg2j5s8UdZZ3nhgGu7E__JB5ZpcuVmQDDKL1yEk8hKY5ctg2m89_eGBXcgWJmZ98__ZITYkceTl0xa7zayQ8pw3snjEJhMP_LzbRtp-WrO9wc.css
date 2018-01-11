@@ -35,3 +35,9 @@
     font-size:12px !important;
   }
 }
+.wire svg path {
+  fill: #842a583b;
+}
+.arrow svg path {
+  fill: #ffffff54;
+}
