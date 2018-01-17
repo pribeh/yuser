@@ -1,3 +1,7 @@
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.02; }
+}
 @media only screen and (max-width: 930px)  {
   .middle h1, .middle2 h1, .middle3 h1, .middle4 h1 {
     margin-left:15px !important;
@@ -34,8 +38,4 @@
   header ul li a {
     font-size:12px !important;
   }
-}
-@keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: 0.02; }
 }
