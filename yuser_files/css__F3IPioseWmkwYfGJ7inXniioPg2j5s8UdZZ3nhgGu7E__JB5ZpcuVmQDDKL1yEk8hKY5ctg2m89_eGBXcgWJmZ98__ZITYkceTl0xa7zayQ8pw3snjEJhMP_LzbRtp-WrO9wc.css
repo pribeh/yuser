@@ -7,7 +7,7 @@
     to   { opacity: 1; }
 }
 @media only screen and (max-width: 930px)  {
-  .middle h1, .middle2 h1, .middle3 h1, .middle4 h1 {
+  .middle h1, .middle2 h1, .middle4 h1 {
     margin-left:15px !important;
     margin-right:15px !important;
   }
