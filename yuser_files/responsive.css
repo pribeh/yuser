@@ -9,17 +9,17 @@
    .profile1, .profile2 {
     margin-right:20px;
 }
-   .profile4 {
+.profile4 {
     margin-left: 100px;
-       margin-right:0;
-    }
-    .profile5 {
+   margin-right:0;
+}
+.profile5 {
     margin-right: 100px;
-        margin-left:20px;
-    }
-  .middle h1 {
-      margin-top:0;
-    }
+    margin-left:20px;
+}
+.middle h1 {
+  margin-top:0;
+}
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 0.02; }
@@ -44,13 +44,13 @@
 }
 @media only screen and (max-width: 730px)  {
     .middle h1 {
-    margin-top:50px !important;
+        margin-top:50px !important;
     }
     .middle3 h1 {
         margin-top:20px;
     }
    .image {
-    align-self: auto !important;
+        align-self: auto !important;
    }
   .middle .row, .middle3 .row {
       flex-direction: column !important;
@@ -75,8 +75,8 @@
     
 }
 @media only screen and (max-width: 570px)  {
-      .profile4 {
-    margin-left: 60px !important;
+     .profile4 {
+        margin-left: 60px !important;
        margin-right:0;
     }
     .profile5 {
@@ -88,7 +88,7 @@
         margin-right:5px;
     }
     .image img { 
-     width:100%;
+        width:100%;
         height:auto;
     }
 }
