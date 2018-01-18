@@ -43,7 +43,7 @@
   }
 }
 @media only screen and (max-width: 730px)  {
-    .middle2 h1 {
+    .middle h1 {
     margin-top:50px !important;
     }
     .middle3 h1 {
@@ -82,6 +82,10 @@
     .profile5 {
     margin-right: 60px !important;
         margin-left:20px;
+    }
+    .image {
+        margin-left:15px;
+        margin-right:15px;
     }
 }
 @media only screen and (max-width: 360px)  {
