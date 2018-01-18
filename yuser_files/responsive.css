@@ -1,0 +1,91 @@
+.profile {
+    max-width:150px;
+    margin-bottom:30px;
+}
+.profile img {
+    width: 100%;
+    height: auto;
+}
+   .profile1, .profile2 {
+    margin-right:20px;
+}
+   .profile4 {
+    margin-left: 100px;
+       margin-right:0;
+    }
+    .profile5 {
+    margin-right: 100px;
+        margin-left:20px;
+    }
+  .middle h1 {
+      margin-top:0;
+    }
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.02; }
+}
+@keyframes fadein2 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@media only screen and (max-width: 930px)  {
+   .team {
+    max-width: 700px !important;
+    margin: 0 auto !important;
+   }
+   .middle2 h1, .middle4 h1 {
+    margin-left:15px !important;
+    margin-right:15px !important;
+  }
+  .middle .row, .middle2 .row, .middle3 .row, .middle4 .row {
+    margin-left:15px !important;
+    margin-right:15px !important;
+  }
+}
+@media only screen and (max-width: 730px)  {
+    .middle2 h1 {
+    margin-top:50px !important;
+    }
+    .middle3 h1 {
+        margin-top:20px;
+    }
+   .image {
+    align-self: auto !important;
+   }
+  .middle .row, .middle3 .row {
+      flex-direction: column !important;
+  }
+  .middle .row p {
+    margin-left:0 !important;
+    margin-right:0 !important;
+  }
+}
+@media only screen and (max-width: 630px)  {
+  .middle2 .row {
+    flex-direction: column !important;
+  }
+  .middle3 .row img {
+    width:auto;
+    max-width:400px;
+    margin-bottom:-20px;
+  }
+  header ul li a {
+    font-size:14px !important;
+  }
+    
+}
+@media only screen and (max-width: 570px)  {
+      .profile4 {
+    margin-left: 60px !important;
+       margin-right:0;
+    }
+    .profile5 {
+    margin-right: 60px !important;
+        margin-left:20px;
+    }
+}
+@media only screen and (max-width: 360px)  {
+  header ul li a {
+    font-size:12px !important;
+  }
+}
