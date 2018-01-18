@@ -116,4 +116,7 @@
   header ul li a {
     font-size:12px !important;
   }
+  .intro h1 {
+      font-size: 52px !important;
+   }
 }
