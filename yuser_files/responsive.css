@@ -84,8 +84,12 @@
         margin-left:20px;
     }
     .image {
-        margin-left:15px;
-        margin-right:15px;
+        margin-left:5px;
+        margin-right:5px;
+    }
+    .image img { 
+     width:100%;
+        height:auto;
     }
 }
 @media only screen and (max-width: 360px)  {
