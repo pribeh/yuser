@@ -46,6 +46,9 @@
     .middle2 h1 {
     margin-top:50px !important;
     }
+    .middle3 h1 {
+        margin-top:20px;
+    }
    .image {
     align-self: auto !important;
    }
