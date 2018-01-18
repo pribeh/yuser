@@ -1,3 +1,10 @@
+.profile {
+    max-width:150px;
+}
+.profile img {
+    width: 100%;
+    height: auto;
+}
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 0.02; }
