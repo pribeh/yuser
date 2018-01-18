@@ -69,7 +69,7 @@
    .image img { 
         width:100% !important;
         height:auto;
-       max-width:550px;
+       max-width:480px;
     }
 }
 @media only screen and (max-width: 630px)  {
@@ -96,6 +96,7 @@
     .image img { 
         width:100% !important;
         height:auto;
+        max-width:none;
     }
 }
 @media only screen and (max-width: 530px)  {
