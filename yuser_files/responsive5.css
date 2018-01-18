@@ -66,6 +66,11 @@
     margin-left:0 !important;
     margin-right:0 !important;
   }
+   .image img { 
+        width:100% !important;
+        height:auto;
+       max-width:550px;
+    }
 }
 @media only screen and (max-width: 630px)  {
   .middle2 .row {
