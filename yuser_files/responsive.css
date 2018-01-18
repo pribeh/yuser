@@ -1,12 +1,13 @@
 .profile {
     max-width:150px;
     margin-bottom:30px;
+    text-align:center;
 }
 .profile img {
     width: 100%;
     height: auto;
 }
-   .profile1, .profile2 {
+.profile1, .profile2 {
     margin-right:20px;
 }
 .profile4 {
@@ -88,8 +89,8 @@
         margin-left:20px;
     }
     .image {
-        margin-left:5px;
-        margin-right:5px;
+        margin-left:-20px;
+        margin-right:-20px;
     }
     .image img { 
         width:100% !important;
