@@ -68,13 +68,12 @@
   }
   .middle3 .row img {
     width:auto;
-    max-width:400px;
+    max-width:none;
     margin-bottom:-20px;
   }
   header ul li a {
     font-size:14px !important;
   }
-    
 }
 @media only screen and (max-width: 570px)  {
      .profile4 {
