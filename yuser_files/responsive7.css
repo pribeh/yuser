@@ -23,7 +23,7 @@
 }
 @keyframes fadein {
     from { opacity: 0; }
-    to   { opacity: 0.02; }
+    to   { opacity: 0.04; }
 }
 @keyframes fadein2 {
     from { opacity: 0; }
