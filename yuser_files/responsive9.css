@@ -57,9 +57,11 @@
   .middle .row, .middle3 .row {
       flex-direction: column !important;
   }
+    .middle3 .row {
+      padding:40px 0;   
+    }
   .middle3 .row img {
     width:auto;
-    margin-bottom:-20px;
   }
   .middle .row p {
     margin-left:0 !important;
@@ -81,7 +83,7 @@
   header ul li a {
     font-size:14px !important;
   }
-   .middele5 .row {
+   .middle5 .row {
         flex-direction: column !important;   
     }
 }
