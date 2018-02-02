@@ -128,6 +128,17 @@
         max-width:200px;
         margin-right:0;
     }
+    .middle5 svg {
+        width:70px !important;
+        height:70px !important;
+    }
+     .middle5 p {
+        font-size:20px;    
+    }
+    .middle5 .row-3 svg {
+        width:70px !important;
+        height:auto !important;
+    }
 }
 @media only screen and (max-width: 450px)  {
     .team {
