@@ -59,7 +59,6 @@
   }
   .middle3 .row img {
     width:auto;
-    max-width:none;
     margin-bottom:-20px;
   }
   .middle .row p {
@@ -71,6 +70,9 @@
         height:auto;
        max-width:480px;
     }
+    .middle3 .row {
+        padding: 40px 0;   
+    }
 }
 @media only screen and (max-width: 630px)  {
   .middle2 .row {
@@ -79,6 +81,9 @@
   header ul li a {
     font-size:14px !important;
   }
+   .middele5 .row {
+        flex-direction: column !important;   
+    }
 }
 @media only screen and (max-width: 570px)  {
      .profile4 {
