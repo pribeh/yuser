@@ -142,6 +142,10 @@
         width:70px !important;
         height:auto !important;
     }
+    .footer {
+        margin-left:15px !important;
+        margin-right:15px !important;
+    }
 }
 @media only screen and (max-width: 450px)  {
     .team {
