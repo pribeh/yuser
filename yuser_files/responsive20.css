@@ -28,7 +28,7 @@ header li {
  float:left;
   margin-right:35px;
 }
-.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     background-color: #fff !important;
     height: 3px !important;
     width:30px !important;
