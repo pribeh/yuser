@@ -39,8 +39,8 @@ header li a {
     height: 3px !important;
     width:30px !important;
 }
-.middle5 h1 {
-    margin-top: 15px;
+.middle5 h2 {
+    margin-top: 8px;
 }
 .middle5 p {
  margin-top: 14px !important;   
@@ -171,16 +171,8 @@ header li a {
         max-width:200px;
         margin-right:0;
     }
-    .middle5 svg {
-        width:70px !important;
-        height:70px !important;
-    }
      .middle5 p {
         font-size:20px !important;    
-    }
-    .middle5 .row-3 svg {
-        width:70px !important;
-        height:auto !important;
     }
     .footer {
         margin-left:15px !important;
