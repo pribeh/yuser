@@ -338,6 +338,16 @@
 	</script> 
 	<script src="//yuser.co/yuser_files/smooth-scroll.js">
 	</script> 
+	<script>	
+		jQuery(document).ready(function($){
+
+		$( ".hamburger" ).click(function() {
+		  $( "header ul" ).toggleClass( "view" );
+		    $( ".hamburger" ).toggleClass( "is-active" );
+		});
+
+		});
+	</script>
 	<script>
 	       var scroll = new SmoothScroll('a[href*="#"]', {
 	       speed: 500, // Integer. How fast to complete the scroll in milliseconds
