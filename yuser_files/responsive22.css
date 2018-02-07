@@ -68,7 +68,7 @@ header li {
     }
     header li {
      float:none;
-      margin-right:0;
+      margin:10px 0;
     }
 }
 @media only screen and (max-width: 730px)  {
@@ -106,9 +106,6 @@ header li {
 @media only screen and (max-width: 630px)  {
   .middle2 .row {
     flex-direction: column !important;
-  }
-  header ul li a {
-    font-size:14px !important;
   }
    .middle5 .row {
         flex-direction: column !important;   
@@ -180,9 +177,6 @@ header li {
     }
 }
 @media only screen and (max-width: 360px)  {
-  header ul li a {
-    font-size:12px !important;
-  }
   .intro h1 {
       font-size: 52px !important;
    }
