@@ -28,6 +28,12 @@ header li {
  float:left;
   margin-right:35px;
 }
+header li a {
+   display:block;   
+}
+.hamburger:hover {
+    opacity: 1 !important;
+}
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     background-color: #fff !important;
     height: 3px !important;
