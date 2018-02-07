@@ -75,6 +75,7 @@ header li a {
     header li {
      float:none;
       margin:10px 0;
+       margin-bottom: 15px;
     }
 }
 @media only screen and (max-width: 730px)  {
@@ -188,5 +189,5 @@ header li a {
    }
 }
 .hamburger--emphatic.is-active .hamburger-inner {
-        background-color: transparent !important;
+   background-color: transparent !important;
 }
