@@ -187,3 +187,6 @@ header li {
       font-size: 52px !important;
    }
 }
+.hamburger--emphatic.is-active .hamburger-inner {
+        background-color: transparent !important;
+}
