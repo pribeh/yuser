@@ -189,3 +189,47 @@ header li a {
 .hamburger--emphatic.is-active .hamburger-inner {
    background-color: transparent !important;
 }
+.list-page .list-signup-form .signup-input .form-control {
+    border: 0 !important;
+    background: rgba(43, 38, 46, 0.7019607843137254) !important;
+    padding: 10px !important;
+    border-radius: 5px !important;
+    height: 40px;
+    font-size: 16px;
+}
+.list-page .list-signup-form .signup-input {
+    border: 0;
+    clear: both;
+    margin-bottom: 10px;
+    height: auto;
+}
+.list-page .list-signup-form .signup-button {
+    background: transparent;
+    display: block;
+    position: relative;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+.list-page .list-signup-form .signup-button .button {
+    background: linear-gradient(to right, #842a58 0%, #832596 100%);
+    border: 0;
+    line-height: 38px;
+    height: 38px;
+    display: block;
+    width: 100%;
+    margin: 0;
+    font-size: 18px;
+}
+.upscribe_form-template-default {
+    background: transparent !important;
+    height: auto;
+}
+iframe {
+height: auto;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    margin-bottom: 0;
+    max-height: 100px;    
+}
