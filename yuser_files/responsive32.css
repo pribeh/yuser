@@ -134,6 +134,9 @@ header li a {
         -ms-flex-direction: column !important;
         flex-direction:column !important;
     }
+    .splash-outer .image img {
+        margin-bottom:-20px;
+    }   
 }
 @media only screen and (max-width: 630px)  {
   .middle2 .row {
@@ -163,6 +166,9 @@ header li a {
     }
 }
 @media only screen and (max-width: 570px)  {
+    h1 {
+      font-size:36px;
+    }
      .profile4 {
         margin-left: 60px !important;
        margin-right:0;
