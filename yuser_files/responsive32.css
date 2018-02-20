@@ -137,6 +137,9 @@ header li a {
     .splash-outer .image img {
         margin-bottom:-20px;
     }   
+    .splash-outer .image img {
+        width:480px !important;
+    }
 }
 @media only screen and (max-width: 630px)  {
   .middle2 .row {
