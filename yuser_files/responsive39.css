@@ -169,7 +169,7 @@ header li a {
         flex-direction: column !important;   
     }
     .middle5 .row-1, .middle5 .row-2, .middle5 .row-3 {
-        align-self: auto;
+        align-self: auto !important;
     }
     .middle5 .inner {
         padding:0 15px;
