@@ -1,0 +1,262 @@
+h1 {
+    font-size:54px;
+    font-weight:200;
+}
+.profile {
+    max-width:150px;
+    margin-bottom:30px;
+    text-align:center;
+}
+.profile img {
+    width: 100%;
+    height: auto;
+}
+.profile1, .profile2 {
+    margin-right:20px;
+}
+.profile4 {
+    margin-left: 100px;
+   margin-right:0;
+}
+.profile5 {
+    margin-right: 100px;
+    margin-left:20px;
+}
+.middle h1 {
+  margin-top:0;
+}
+header button.hamburger {
+ display:none;   
+}
+header li {
+ float:left;
+  margin-right:35px;
+}
+header li a {
+   display:block;   
+}
+.hamburger:hover {
+    opacity: 1 !important;
+}
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    background-color: #fff !important;
+    height: 3px !important;
+    width:30px !important;
+}
+.middle5 h2 {
+    margin-top: 8px;
+}
+.middle5 p {
+ margin-top: 14px !important;   
+}
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 0.04; }
+}
+@keyframes fadein2 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@media only screen and (max-width: 930px)  {
+   .team {
+    max-width: 700px !important;
+    margin: 0 auto !important;
+       margin-top:20px !important;
+   }
+   .middle2 h1, .middle4 h1, .middle2 h2 {
+    margin-left:15px !important;
+    margin-right:15px !important;
+  }
+  .middle .row, .middle2 .row, .middle3 .row, .middle4 .row {
+    margin-left:15px !important;
+    margin-right:15px !important;
+  }
+}
+@media only screen and (max-width: 860px)  {
+    header button.hamburger {
+        display:block;   
+    }
+    header ul {
+        display:none;
+    }
+    header ul.view {
+        display:block;
+    }
+    header li {
+       float:none;
+       margin:10px 0;
+       margin-bottom: 15px;
+    }
+    .splash-outer .image img {
+        width:400px !important;
+    }
+    .splash {
+      max-width:200px !important;
+      max-height:200px !important;
+    }
+}
+@media only screen and (max-width: 730px)  {
+    h1 {
+      font-size:44px;
+    }
+    .middle h1 {
+        margin-top:50px !important;
+    }
+    .middle3 h1 {
+        margin-top:20px !important;
+    }
+   .image {
+        align-self: auto !important;
+   }
+  .middle .row, .middle3 .row {
+      flex-direction: column !important;
+  }
+    .middle3 .row {
+      padding:40px 0;   
+    }
+  .middle3 .row img {
+    width:auto;
+  }
+  .middle .row p {
+    margin-left:0 !important;
+    margin-right:0 !important;
+  }
+   .image img { 
+        width:100% !important;
+        height:auto;
+       max-width:480px;
+    }
+    .middle3 .row {
+        padding: 40px 0;   
+    }
+    .splash-outer {
+        -webkit-flex-direction: column !important;
+        -ms-flex-direction: column !important;
+        flex-direction:column !important;
+    }
+}
+@media only screen and (max-width: 630px)  {
+  .middle2 .row {
+      -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+  }
+   .middle5 .row {
+       -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+        flex-direction: column !important;   
+    }
+    .middle5 .inner {
+        padding:0 15px;
+    }
+    .middle5 .row-1 {
+        margin-bottom:15px;
+    }
+    .middle5 .row-2, .middle5 .row-3 {
+        margin:15px 0;
+    }
+    .middle5 .row h1 {
+        margin-top:14px !important;
+    }
+}
+@media only screen and (max-width: 570px)  {
+     .profile4 {
+        margin-left: 60px !important;
+       margin-right:0;
+    }
+    .profile5 {
+        margin-right: 60px !important;
+        margin-left:20px;
+    }
+    .image {
+        margin-left:-20px;
+        margin-right:-20px;
+    }
+    .image img { 
+        width:100% !important;
+        height:auto;
+        max-width:none;
+    }
+}
+@media only screen and (max-width: 530px)  {
+      .profile4 {
+        margin-left: 0px !important;
+       margin-right:0;
+    }
+    .profile5 {
+        margin-right: 0px !important;
+        margin-left:0px;
+    }
+    .profile {
+        max-width:200px;
+        margin-right:0;
+    }
+     .middle5 p {
+        font-size:20px !important;    
+    }
+    .footer {
+        margin-left:15px !important;
+        margin-right:15px !important;
+    }
+}
+@media only screen and (max-width: 450px)  {
+    .team {
+        flex-direction:column !important;
+           -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 360px)  {
+  .intro h1 {
+      font-size: 52px !important;
+   }
+}
+.hamburger--emphatic.is-active .hamburger-inner {
+   background-color: transparent !important;
+}
+.list-page .list-signup-form .signup-input .form-control {
+    border: 0 !important;
+    background: rgba(43, 38, 46, 0.7019607843137254) !important;
+    padding: 10px !important;
+    border-radius: 5px !important;
+    height: 40px;
+    font-size: 16px;
+}
+.list-page .list-signup-form .signup-input {
+    border: 0;
+    clear: both;
+    margin-bottom: 10px;
+    height: auto;
+}
+.list-page .list-signup-form .signup-button {
+    background: transparent;
+    display: block;
+    position: relative;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+.list-page .list-signup-form .signup-button .button {
+    background: linear-gradient(to right, #842a58 0%, #832596 100%);
+    border: 0;
+    line-height: 38px;
+    height: 38px;
+    display: block;
+    width: 100%;
+    margin: 0;
+    font-size: 18px;
+}
+.upscribe_form-template-default {
+    background: transparent !important;
+    height: auto;
+}
+iframe {
+height: auto;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    margin-bottom: 0;
+    max-height: 100px;    
+}
