@@ -138,13 +138,16 @@ header li a {
 @media only screen and (max-width: 630px)  {
   .middle2 .row {
       -webkit-flex-direction: column !important;
-    -ms-flex-direction: column !important;
-    flex-direction: column !important;
-  }
+        -ms-flex-direction: column !important;
+        flex-direction: column !important;
+    }
    .middle5 .row {
        -webkit-flex-direction: column !important;
-    -ms-flex-direction: column !important;
+        -ms-flex-direction: column !important;
         flex-direction: column !important;   
+    }
+    .middle5 .row-1, .middle5 .row-2, .middle5 .row-3 {
+        align-self: auto;
     }
     .middle5 .inner {
         padding:0 15px;
