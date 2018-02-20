@@ -63,7 +63,7 @@ header li a {
     margin: 0 auto !important;
        margin-top:20px !important;
    }
-   .middle2 h1, .middle4 h1, .middle2 h2 {
+   .middle2 h1, .middle2 h2 {
     margin-left:15px !important;
     margin-right:15px !important;
   }
@@ -197,6 +197,11 @@ header li a {
     .footer {
         margin-left:15px !important;
         margin-right:15px !important;
+    }
+    .contact {
+       -webkit-flex-direction: column !important;
+        -ms-flex-direction: column !important;
+        flex-direction: column !important;    
     }
 }
 @media only screen and (max-width: 450px)  {
