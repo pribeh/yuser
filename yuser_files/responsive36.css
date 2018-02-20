@@ -47,7 +47,10 @@ header li a {
     margin-top: 8px;
 }
 .middle5 p {
- margin-top: 14px !important;   
+    margin-top: 14px !important;   
+}
+.splash-intro input[type="email"]::placeholder {
+    color:#ccc;   
 }
 @keyframes fadein {
     from { opacity: 0; }
