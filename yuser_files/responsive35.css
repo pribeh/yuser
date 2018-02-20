@@ -135,7 +135,7 @@ header li a {
         flex-direction:column !important;
     }
     .splash-outer .image img {
-        margin-bottom:-20px;
+        margin-bottom:-20px !important;
     }   
     .splash-outer .image img {
         width:480px !important;
