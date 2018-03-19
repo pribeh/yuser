@@ -1,7 +1,7 @@
 /* -------------------------------- 
 Patterns - reusable parts of our design
 -------------------------------- */
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 900px) {
   .cd-is-hidden {
     visibility: hidden;
   }
@@ -13,7 +13,7 @@ Resource style
 
 .cd-timeline {
   overflow: hidden;
-  margin: 2em auto;
+  margin: 0 auto;
 }
 
 .cd-timeline__container {
@@ -36,10 +36,6 @@ Resource style
 }
 
 @media only screen and (min-width: 900px) {
-  .cd-timeline {
-    margin-top: 3em;
-    margin-bottom: 3em;
-  }
   .cd-timeline__container::before {
     left: 50%;
     margin-left: -2px;
@@ -184,16 +180,21 @@ Resource style
 
 .cd-timeline__content h2 {
   color: #333;
+  margin-top:0;
+  margin-bottom:15px;
 }
 
 .cd-timeline__content p,
-.cd-timeline__read-more,
 .cd-timeline__date {
   font-size: 18px;
+}
+.cd-timeline__read-more {
+  font-siz:16px;
 }
 
 .cd-timeline__content p {
   margin: 0;
+  margin-bottom:15px;
   line-height: 1.6;
 }
 
@@ -231,7 +232,7 @@ Resource style
   }
   .cd-timeline__read-more,
   .cd-timeline__date {
-    font-size: 1.4rem;
+    font-size: 16px;
   }
 }
 
@@ -239,7 +240,7 @@ Resource style
   .cd-timeline__content {
     margin-left: 0;
     padding: 1.6em;
-    width: 45%;
+    width: 40%;
     /* Force Hardware Acceleration */
     -webkit-transform: translateZ(0);
             transform: translateZ(0);
@@ -258,7 +259,7 @@ Resource style
     width: 100%;
     left: 122%;
     top: 6px;
-    font-size: 1.6rem;
+    font-size: 20px;
   }
   .cd-timeline__block:nth-child(even) .cd-timeline__content {
     float: right;
