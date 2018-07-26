@@ -25,19 +25,6 @@
     }
 }
 "post": {
-    "debug": "on",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "La croix ethical literally freegan.",
-    }
-}
-"post": {
     "id": "3",
     "image": { 
         "src": "..Images/Sun.png",
@@ -47,7 +34,7 @@
         "alignment": "center"
     },
     "body": {
-        "text": "Roof party yuccie four loko.",
+        "text": "La croix ethical literally freegan.",
     }
 }
 "post": {
