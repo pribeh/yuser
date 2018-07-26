@@ -7,9 +7,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
-        }
+        "author": "lora",
+        "body": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
     },
     "post": {
         "id": "2",
@@ -19,9 +18,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
-        }
+        "author": "lora",
+        "body": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
     },
     "post": {
         "id": "3",
@@ -31,9 +29,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "La croix ethical literally freegan.",
-        }
+        "author": "lora",
+        "body": "La croix ethical literally freegan.",
     },
     "post": {
         "id": "4",
@@ -43,9 +40,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Roof party yuccie four loko.",
-        }
+        "author": "lora",
+        "body": "Roof party yuccie four loko.",
     },
     "post": {
         "id": "5",
@@ -55,9 +51,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Tote bag vape squid.",
-        }
+        "author": "lora",
+        "text": "Tote bag vape squid.",
     },
     "post": {
         "id": "6",
@@ -67,9 +62,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "XOXO irony listicle gochujang banjo pug.",
-        }
+        "author": "lora",
+        "text": "XOXO irony listicle gochujang banjo pug.",
     },
     "post": {
         "id": "7",
@@ -79,9 +73,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
-        }
+        "author": "lora",
+        "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
     },
     "post": {
         "id": "8",
@@ -91,9 +84,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
-        }
+        "author": "lora",
+        "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
     },
     "post": {
         "id": "9",
@@ -103,9 +95,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Lo-fi brooklyn echo park.",
-        }
+        "author": "lora",
+        "text": "Lo-fi brooklyn echo park.",
     },
     "post": {
         "id": "10",
@@ -115,9 +106,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Letterpress mixtape enamel pin messenger bag.",
-        }
+        "author": "lora",
+        "text": "Letterpress mixtape enamel pin messenger bag.",
     }
         "post": {
         "id": "11",
@@ -127,9 +117,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
-        }
+        "author": "lora",
+        "text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
     },
     "post": {
         "id": "12",
@@ -139,9 +128,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
-        }
+        "author": "lora",
+        "text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
     },
     "post": {
         "id": "13",
@@ -151,9 +139,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "La croix ethical literally freegan.",
-        }
+        "author": "lora",
+        "text": "La croix ethical literally freegan.",
     },
     "post": {
         "id": "14",
@@ -163,9 +150,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Roof party yuccie four loko.",
-        }
+        "author": "lora",
+        "text": "Roof party yuccie four loko.",
     },
     "post": {
         "id": "15",
@@ -175,9 +161,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
+        "author": "lora",
             "text": "Tote bag vape squid.",
-        }
     },
     "post": {
         "id": "16",
@@ -187,9 +172,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "XOXO irony listicle gochujang banjo pug.",
-        }
+        "author": "lora",
+        "text": "XOXO irony listicle gochujang banjo pug.",
     },
     "post": {
         "id": "17",
@@ -199,9 +183,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
-        }
+        "author": "lora",
+        "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
     },
     "post": {
         "id": "18",
@@ -211,9 +194,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
-        }
+        "author": "lora",
+        "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
     },
     "post": {
         "id": "19",
@@ -223,9 +205,8 @@
             "height": 250,
             "width": 250,
         },
-        "body": {
-            "text": "Lo-fi brooklyn echo park.",
-        }
+        "author": "lora",
+        "text": "Lo-fi brooklyn echo park.",
     },
     "post": {
         "id": "20",
@@ -236,8 +217,7 @@
             "width": 250,
             
         },
-        "body": {
-            "text": "Letterpress mixtape enamel pin messenger bag.",
-        }
+        "author": "lora",
+        "text": "Letterpress mixtape enamel pin messenger bag.",
     }
 }
