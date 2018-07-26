@@ -1,262 +1,243 @@
 {
-"post": {
-    "id": "1",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
-    }
-},
-"post": {
-    "id": "2",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
-    }
-},
-"post": {
-    "id": "3",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "La croix ethical literally freegan.",
-    }
-},
-"post": {
-    "id": "4",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Roof party yuccie four loko.",
-    }
-},
-"post": {
-    "id": "5",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Tote bag vape squid.",
-    }
-},
-"post": {
-    "id": "6",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "XOXO irony listicle gochujang banjo pug.",
-    }
-},
-"post": {
-    "id": "7",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
-    }
-},
-"post": {
-    "id": "8",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
-    }
-},
-"post": {
-    "id": "9",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Lo-fi brooklyn echo park.",
-    }
-},
-"post": {
-    "id": "10",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
-    },
-    "body": {
-        "text": "Letterpress mixtape enamel pin messenger bag.",
-    }
-}
     "post": {
-    "id": "11",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+        "id": "1",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.jpg",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
+        }
     },
-    "body": {
-        "text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
-    }
-},
-"post": {
-    "id": "12",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "2",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.jpg",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
+        }
     },
-    "body": {
-        "text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
-    }
-},
-"post": {
-    "id": "13",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "3",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "La croix ethical literally freegan.",
+        }
     },
-    "body": {
-        "text": "La croix ethical literally freegan.",
-    }
-},
-"post": {
-    "id": "14",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "4",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Roof party yuccie four loko.",
+        }
     },
-    "body": {
-        "text": "Roof party yuccie four loko.",
-    }
-},
-"post": {
-    "id": "15",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "5",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Tote bag vape squid.",
+        }
     },
-    "body": {
-        "text": "Tote bag vape squid.",
-    }
-},
-"post": {
-    "id": "16",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "6",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "XOXO irony listicle gochujang banjo pug.",
+        }
     },
-    "body": {
-        "text": "XOXO irony listicle gochujang banjo pug.",
-    }
-},
-"post": {
-    "id": "17",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "7",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
+        }
     },
-    "body": {
-        "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
-    }
-},
-"post": {
-    "id": "18",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "8",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
+        }
     },
-    "body": {
-        "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
-    }
-},
-"post": {
-    "id": "19",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+    "post": {
+        "id": "9",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Lo-fi brooklyn echo park.",
+        }
     },
-    "body": {
-        "text": "Lo-fi brooklyn echo park.",
+    "post": {
+        "id": "10",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Letterpress mixtape enamel pin messenger bag.",
+        }
     }
-},
-"post": {
-    "id": "20",
-    "image": { 
-        "src": "..Images/Sun.png",
-        "name": "image1",
-        "height": 250,
-        "width": 250,
-        "alignment": "center"
+        "post": {
+        "id": "11",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred.",
+        }
     },
-    "body": {
-        "text": "Letterpress mixtape enamel pin messenger bag.",
+    "post": {
+        "id": "12",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard.",
+        }
+    },
+    "post": {
+        "id": "13",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "La croix ethical literally freegan.",
+        }
+    },
+    "post": {
+        "id": "14",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Roof party yuccie four loko.",
+        }
+    },
+    "post": {
+        "id": "15",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Tote bag vape squid.",
+        }
+    },
+    "post": {
+        "id": "16",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "XOXO irony listicle gochujang banjo pug.",
+        }
+    },
+    "post": {
+        "id": "17",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest.",
+        }
+    },
+    "post": {
+        "id": "18",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key.",
+        }
+    },
+    "post": {
+        "id": "19",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+        },
+        "body": {
+            "text": "Lo-fi brooklyn echo park.",
+        }
+    },
+    "post": {
+        "id": "20",
+        "image": { 
+            "src": "https://yuser.co/IMG_2378.JPG",
+            "name": "image1",
+            "height": 250,
+            "width": 250,
+            
+        },
+        "body": {
+            "text": "Letterpress mixtape enamel pin messenger bag.",
+        }
     }
-}
 }
