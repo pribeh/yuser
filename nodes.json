@@ -7,6 +7,8 @@
 			"height": 800,
 			"width": 600
 		},
+		"gems": "1",
+		"comments": "",
 		"author": "lora",
 		"body": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
 	},
@@ -18,6 +20,8 @@
 			"height": 600,
 			"width": 800
 		},
+		"gems": "",
+		"comments": "",
 		"author": "lora",
 		"body": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
 	},
@@ -29,7 +33,7 @@
 			"height": 600,
 			"width": 800
 		},
-		"gems": "256",
+		"gems": "116",
 		"comments": "15",
 		"author": "lora",
 		"body": "La croix ethical literally freegan."
