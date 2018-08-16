@@ -62,7 +62,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Tote bag vape squid."
+		"body": "Tote bag vape squid."
 	},
 	{
 		"id": "6",
@@ -75,7 +75,7 @@
 		"gems": "153",
 		"comments": "15",
 		"author": "lora",
-		"text": "XOXO irony listicle gochujang banjo pug."
+		"body": "XOXO irony listicle gochujang banjo pug."
 	},
 	{
 		"id": "7",
@@ -88,7 +88,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
+		"body": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
 	},
 	{
 		"id": "8",
@@ -101,7 +101,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
+		"body": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
 	},
 	{
 		"id": "9",
@@ -114,7 +114,7 @@
 		"gems": "198",
 		"comments": "13",
 		"author": "lora",
-		"text": "Lo-fi brooklyn echo park."
+		"body": "Lo-fi brooklyn echo park."
 	},
 	{
 		"id": "10",
@@ -127,140 +127,10 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Letterpress mixtape enamel pin messenger bag."
+		"body": "Letterpress mixtape enamel pin messenger bag."
 	},
 	{
 		"id": "11",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
-	},
-	{
-		"id": "12",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
-	},
-	{
-		"id": "13",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "La croix ethical literally freegan."
-	},
-	{
-		"id": "14",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Roof party yuccie four loko."
-	},
-	{
-		"id": "15",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "434",
-		"comments": "24",
-		"author": "lora",
-		"text": "Tote bag vape squid."
-	},
-	{
-		"id": "16",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "XOXO irony listicle gochujang banjo pug."
-	},
-	{
-		"id": "17",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
-	},
-	{
-		"id": "18",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
-	},
-	{
-		"id": "19",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Lo-fi brooklyn echo park."
-	},
-	{
-		"id": "20",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Letterpress mixtape enamel pin messenger bag."
-	},
-	{
-		"id": "1",
 		"image": {
 			"src": "https://yuser.co/images/IMG_2378.JPG",
 			"name": "image1",
@@ -273,7 +143,7 @@
 		"body": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
 	},
 	{
-		"id": "2",
+		"id": "12",
 		"image": {
 			"src": "https://yuser.co/images/IMG_2378.JPG",
 			"name": "image1",
@@ -286,7 +156,7 @@
 		"body": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
 	},
 	{
-		"id": "3",
+		"id": "13",
 		"image": {
 			"src": "https://yuser.co/images/IMG_2378.JPG",
 			"name": "image1",
@@ -299,7 +169,7 @@
 		"body": "La croix ethical literally freegan."
 	},
 	{
-		"id": "4",
+		"id": "14",
 		"image": {
 			"src": "https://yuser.co/images/IMG_2378.JPG",
 			"name": "image1",
@@ -312,136 +182,6 @@
 		"body": "Roof party yuccie four loko."
 	},
 	{
-		"id": "5",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Tote bag vape squid."
-	},
-	{
-		"id": "6",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "XOXO irony listicle gochujang banjo pug."
-	},
-	{
-		"id": "7",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
-	},
-	{
-		"id": "8",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
-	},
-	{
-		"id": "9",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Lo-fi brooklyn echo park."
-	},
-	{
-		"id": "10",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "163",
-		"comments": "39",
-		"author": "lora",
-		"text": "Letterpress mixtape enamel pin messenger bag."
-	},
-	{
-		"id": "11",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
-	},
-	{
-		"id": "12",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
-	},
-	{
-		"id": "13",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "La croix ethical literally freegan."
-	},
-	{
-		"id": "14",
-		"image": {
-			"src": "https://yuser.co/images/IMG_2378.JPG",
-			"name": "image1",
-			"height": 600,
-			"width": 800
-		},
-		"gems": "256",
-		"comments": "15",
-		"author": "lora",
-		"text": "Roof party yuccie four loko."
-	},
-	{
 		"id": "15",
 		"image": {
 			"src": "https://yuser.co/images/IMG_2378.JPG",
@@ -449,10 +189,10 @@
 			"height": 600,
 			"width": 800
 		},
-		"gems": "256",
-		"comments": "15",
+		"gems": "434",
+		"comments": "24",
 		"author": "lora",
-		"text": "Tote bag vape squid."
+		"body": "Tote bag vape squid."
 	},
 	{
 		"id": "16",
@@ -465,7 +205,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "XOXO irony listicle gochujang banjo pug."
+		"body": "XOXO irony listicle gochujang banjo pug."
 	},
 	{
 		"id": "17",
@@ -478,7 +218,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
+		"body": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
 	},
 	{
 		"id": "18",
@@ -491,7 +231,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
+		"body": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
 	},
 	{
 		"id": "19",
@@ -504,7 +244,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Lo-fi brooklyn echo park."
+		"body": "Lo-fi brooklyn echo park."
 	},
 	{
 		"id": "20",
@@ -513,12 +253,11 @@
 			"name": "image1",
 			"height": 600,
 			"width": 800
-
 		},
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Letterpress mixtape enamel pin messenger bag."
+		"body": "Letterpress mixtape enamel pin messenger bag."
 	},
 	{
 		"id": "21",
@@ -583,7 +322,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Tote bag vape squid."
+		"body": "Tote bag vape squid."
 	},
 	{
 		"id": "26",
@@ -596,7 +335,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "XOXO irony listicle gochujang banjo pug."
+		"body": "XOXO irony listicle gochujang banjo pug."
 	},
 	{
 		"id": "27",
@@ -609,7 +348,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
+		"body": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
 	},
 	{
 		"id": "28",
@@ -622,7 +361,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
+		"body": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
 	},
 	{
 		"id": "29",
@@ -635,7 +374,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Lo-fi brooklyn echo park."
+		"body": "Lo-fi brooklyn echo park."
 	},
 	{
 		"id": "30",
@@ -645,10 +384,10 @@
 			"height": 600,
 			"width": 800
 		},
-		"gems": "256",
-		"comments": "15",
+		"gems": "163",
+		"comments": "39",
 		"author": "lora",
-		"text": "Letterpress mixtape enamel pin messenger bag."
+		"body": "Letterpress mixtape enamel pin messenger bag."
 	},
 	{
 		"id": "31",
@@ -661,7 +400,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
+		"body": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
 	},
 	{
 		"id": "32",
@@ -674,7 +413,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
+		"body": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
 	},
 	{
 		"id": "33",
@@ -687,7 +426,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "La croix ethical literally freegan."
+		"body": "La croix ethical literally freegan."
 	},
 	{
 		"id": "34",
@@ -700,7 +439,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Roof party yuccie four loko."
+		"body": "Roof party yuccie four loko."
 	},
 	{
 		"id": "35",
@@ -713,7 +452,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Tote bag vape squid."
+		"body": "Tote bag vape squid."
 	},
 	{
 		"id": "36",
@@ -726,7 +465,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "XOXO irony listicle gochujang banjo pug."
+		"body": "XOXO irony listicle gochujang banjo pug."
 	},
 	{
 		"id": "37",
@@ -739,7 +478,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
+		"body": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
 	},
 	{
 		"id": "38",
@@ -752,7 +491,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
+		"body": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
 	},
 	{
 		"id": "39",
@@ -765,7 +504,7 @@
 		"gems": "256",
 		"comments": "15",
 		"author": "lora",
-		"text": "Lo-fi brooklyn echo park."
+		"body": "Lo-fi brooklyn echo park."
 	},
 	{
 		"id": "40",
@@ -776,9 +515,270 @@
 			"width": 800
 
 		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Letterpress mixtape enamel pin messenger bag."
+	},
+	{
+		"id": "41",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
+	},
+	{
+		"id": "42",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
+	},
+	{
+		"id": "43",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "La croix ethical literally freegan."
+	},
+	{
+		"id": "44",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Roof party yuccie four loko."
+	},
+	{
+		"id": "45",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Tote bag vape squid."
+	},
+	{
+		"id": "46",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "XOXO irony listicle gochujang banjo pug."
+	},
+	{
+		"id": "47",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
+	},
+	{
+		"id": "48",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
+	},
+	{
+		"id": "49",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Lo-fi brooklyn echo park."
+	},
+	{
+		"id": "50",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Letterpress mixtape enamel pin messenger bag."
+	},
+	{
+		"id": "51",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Lorem ipsum dolor amet ethical tbh try-hard, forage vegan thundercats truffaut meh narwhal bushwick cred."
+	},
+	{
+		"id": "52",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Twee pinterest palo santo tofu vexillologist deep v meditation ennui try-hard."
+	},
+	{
+		"id": "53",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "La croix ethical literally freegan."
+	},
+	{
+		"id": "54",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Roof party yuccie four loko."
+	},
+	{
+		"id": "55",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Tote bag vape squid."
+	},
+	{
+		"id": "56",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "XOXO irony listicle gochujang banjo pug."
+	},
+	{
+		"id": "57",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Asymmetrical jean shorts pok pok slow-carb brunch pinterest."
+	},
+	{
+		"id": "58",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Woke salvia ennui helvetica pok pok seitan fingerstache chia church-key."
+	},
+	{
+		"id": "59",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+		},
+		"gems": "256",
+		"comments": "15",
+		"author": "lora",
+		"body": "Lo-fi brooklyn echo park."
+	},
+	{
+		"id": "60",
+		"image": {
+			"src": "https://yuser.co/images/IMG_2378.JPG",
+			"name": "image1",
+			"height": 600,
+			"width": 800
+
+		},
 		"gems": "134",
 		"comments": "30",
 		"author": "lora",
-		"text": "Letterpress mixtape enamel pin messenger bag."
+		"body": "Letterpress mixtape enamel pin messenger bag."
 	}
 ]
