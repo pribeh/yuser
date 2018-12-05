@@ -17,7 +17,7 @@
 .profile5 {
     margin-right: 100px;
     margin-left:20px;
-}
+} 
 .middle h1 {
   margin-top:0;
 }
@@ -189,6 +189,11 @@ header li a {
   .intro h1 {
       font-size: 52px !important;
    }
+}
+@media only screen and (min-width: 531px)  {
+    .profile7 {
+        margin: 30px auto;
+    }   
 }
 .hamburger--emphatic.is-active .hamburger-inner {
    background-color: transparent !important;
