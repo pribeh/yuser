@@ -28,6 +28,15 @@ h1 {
 header button.hamburger {
  display:none;   
 }
+header ul {
+    margin-left:auto;
+}
+header ul.view {
+    margin-left:0;
+}
+header h1.view {
+    display:none;
+}
 header li {
  float:left;
   margin-right:35px;
